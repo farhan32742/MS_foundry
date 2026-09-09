@@ -1,0 +1,9 @@
+[project]
+name = "foundry-learning"
+version = "0.1.0"
+description = "An AI assistant combining resume RAG and external tools."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+
